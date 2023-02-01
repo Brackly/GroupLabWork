@@ -1,0 +1,16 @@
+.image{
+    width: 45%;
+    height: 45%;
+  }
+
+  #teamPics{
+    background-color: hsl(235, 10%, 85%);
+  }
+
+  .row{
+    margin-bottom: 20px;
+  }
+
+#team{
+    text-align: center;
+}
